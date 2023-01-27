@@ -1,3 +1,0 @@
-var data = []
-data["2107001"] = { name: "AAAAAAAAAAA", roll: "2107001" }
-data["2107001"].homeDistrict = "AAAAAAAAAAAA"
