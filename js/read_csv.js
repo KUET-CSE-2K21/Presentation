@@ -1,13 +1,17 @@
+//memory beshi khaile hash e neya lagbe, roll er age char diya dileo auto hash
+
 function open_file(url) {
-	const xhrs = new XMLHttpRequest()
+	/*const xhrs = new XMLHttpRequest()
 	xhrs.open('GET', url, false)
 	xhrs.send(null)
 
 	if (xhrs.status === 200) {
 		return xhrs.responseText
 	}
-	return false
+	return false*/
+	return csvstring
 }
+//if err just add file as var in ``
 function read_csv_header(line) {
 	var ret = []
 	var temp = ""
